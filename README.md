@@ -4,7 +4,7 @@ Welcome to the repository overview! This repository serves as a collection of Ju
 
 ## Contents
 
-1- ### Atelier 1 : Simple and Multiple Linear Regression
+1. Atelier 1 : Simple and Multiple Linear Regression
 - **Introduction**: Introduces simple and multiple linear regression for predicting sales.
 - **Data Overview**: Provides an overview of the dataset, including data types and summary statistics.
 - **Data Visualization**: Visualizes the relationship between advertising budgets and sales.
@@ -15,13 +15,13 @@ Welcome to the repository overview! This repository serves as a collection of Ju
 - **Comparison**: Compares the model error and cross-validation mean MSE.
 - **Conclusion**: Discusses results and potential model improvements.
 
-2- ### A Star Search : A* Search Algorithm (ASS)
+2. A Star Search : A* Search Algorithm (ASS)
 - This code snippet represents the A* Search Algorithm. It finds the shortest path from an initial state to a goal state in a graph or grid using a heuristic estimate and a successor function. It maintains open and closed sets, explores successors, and returns the optimal path or failure if the goal cannot be reached.
 
-3- ### Heuristic Search : Generic Heuristic Search (GHS)
+3. Heuristic Search : Generic Heuristic Search (GHS)
 - The code defines a generic heuristic search algorithm using A* (A Star) for finding the shortest path in a graph. It utilizes a priority queue (heap) and a `Node` class to represent nodes in the search. The algorithm starts with an initial state and iteratively explores successors, considering both the cost to reach the current node (`g`) and a heuristic estimate of the cost to reach the goal (`h`). It returns the path from the initial state to the goal state or `None` if no path is found.
 
-4- ### RDLS & IDDFS : Recursive Depth-Limited Search (RDLS) & Iterative Deepening Depth-First Search (IDDFS)
+4. RDLS & IDDFS : Recursive Depth-Limited Search (RDLS) & Iterative Deepening Depth-First Search (IDDFS)
 #### Recursive Depth-Limited Search (RDLS)
 - Finds a node with a given value using a depth-limited recursive algorithm.
 - **Parameters:**
