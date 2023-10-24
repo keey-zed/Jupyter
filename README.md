@@ -15,3 +15,6 @@ Welcome to the repository overview! This repository serves as a collection of Ju
 - **Cross-Validation**: Demonstrates k-fold cross-validation for model evaluation.
 - **Comparison**: Compares the model error and cross-validation mean MSE.
 - **Conclusion**: Discusses results and potential model improvements.
+
+### A Star Search : A* Search Algorithm
+- This code snippet represents the A* Search Algorithm. It finds the shortest path from an initial state to a goal state in a graph or grid using a heuristic estimate and a successor function. It maintains open and closed sets, explores successors, and returns the optimal path or failure if the goal cannot be reached.
