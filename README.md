@@ -45,3 +45,21 @@ Welcome to the repository overview! This repository serves as a collection of Ju
      - Provides a function to build a test tree with nodes and child relationships.
    - **Main program**
      - Builds a test tree and searches for a goal node using the IDDFS algorithm. If found, it prints "The goal node was successfully found :)."
+5. **Terrorism Insights**
+   - **Project Overview**
+     - Analyzing the Global Terrorism Database (GTD) to gain insights into terrorism incidents.
+   - **Data Analysis**
+     - Importing essential libraries (pandas, numpy, matplotlib, scikit-learn).
+     - Loading the GTD dataset.
+     - Selecting and handling relevant features.
+     - Standardizing the feature matrix.
+   - **PCA (Principal Component Analysis)**
+     - Reducing the dimensionality of the data.
+     - Visualizing explained variance and selecting principal components.
+   - **Linear Regression**
+     - Selecting features for predicting the number of killed individuals.
+     - Splitting data into training and test sets.
+     - Training a linear regression model and evaluating performance.
+   - **Hyperparameter Optimization**
+     - Using GridSearchCV to optimize linear regression parameters.
+     - Enhancing the model's predictive capabilities.
