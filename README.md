@@ -15,7 +15,7 @@ Welcome to the repository overview! This repository serves as a collection of Ju
    - **Comparison**: Compares the model error and cross-validation mean MSE.
    - **Conclusion**: Discusses results and potential model improvements.
 
-2. **A Star Search : A* Search Algorithm (ASS)**
+2. **A Star Search : A Star Search Algorithm (ASS)**
    - This code snippet represents the A* Search Algorithm. It finds the shortest path from an initial state to a goal state in a graph or grid using a heuristic estimate and a successor function. It maintains open and closed sets, explores successors, and returns the optimal path or failure if the goal cannot be reached.
 
 3. **Heuristic Search : Generic Heuristic Search (GHS)**
